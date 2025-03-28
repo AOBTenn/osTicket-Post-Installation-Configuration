@@ -25,8 +25,17 @@ This tutorial outlines the necessary configurations after installation to proper
 <h2>Configuration Steps</h2>
 
 1. Open admin/analyst login page http://localhost/osTicket/scp/login.php -> Open end user login page http://localhost/osTicket 
-  
-2. Acknowledge Agent vs Admin panel in Admin webpage
+
+![image](https://github.com/user-attachments/assets/b8a0a16a-18d9-492d-93e3-b9eca5669332)
+![image](https://github.com/user-attachments/assets/92aa8792-6bd6-48bd-a8f8-478b53b88f16)
+
+2. Acknowledge Agent vs Admin panel  
+
+Admin webpage -> Sign in as admin -> Admin panel -> Agent panel
+
+![image](https://github.com/user-attachments/assets/7eeface6-2228-4786-b4e5-a095f33507bc)
+![image](https://github.com/user-attachments/assets/486071fe-2ba4-4c6a-9591-871231976ed5)
+![image](https://github.com/user-attachments/assets/6403fbde-143d-4a5e-8820-626e80fcf40d)
 
 3. Configure Roles
    Admin Login Page -> Admin Panel -> Agents -> Roles -> Add New Role -> Type "Supreme Admin" -> Permissions -> Check all the boxes -> Add Role
