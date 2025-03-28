@@ -40,35 +40,49 @@ Admin webpage -> Sign in as admin -> Admin panel -> Agent panel
 3. Configure Roles
    Admin Login Page -> Admin Panel -> Agents -> Roles -> Add New Role -> Type "Supreme Admin" -> Permissions -> Check all the boxes -> Add Role
 
+![image](https://github.com/user-attachments/assets/c88cd158-5ee3-4221-b331-a223e99ed207)
+![image](https://github.com/user-attachments/assets/4b67e5ab-95e4-432a-ac01-07187479cd36)
+![image](https://github.com/user-attachments/assets/f3e3a003-1e10-45bd-b172-06f82f4dbbe2)
+![image](https://github.com/user-attachments/assets/a6874e44-fa6c-4664-8796-ea84b55183dc)
+
 4. Configure Departments
    Admin Login Page -> Admin Panel -> Agents -> Departments -> Add New Department -> For Parent select "Top Level Department" -> For Name type "SysAdmins" -> Create
+
+![image](https://github.com/user-attachments/assets/1653c26d-e825-4116-9a2e-48dd5394947b)
+
    Admin Login Page -> Admin Panel -> Agents (in the top row, not second row) -> Departments -> Maintenance -> Delete -> Save
 
-5. Configure Teams
+![image](https://github.com/user-attachments/assets/1cca647a-cf5d-469b-b643-3a72b7f70c1d)
+
+6. Configure Teams
     Admin Login Page -> Admin Panel -> Agents -> Teams -> Add New Team -> For Name type "Omline Banking" -> Create
 
-6. Allow anyone to create tickets
+7. Allow anyone to create tickets
    Admin Login Page -> Admin Panel -> Settings -> Users -> *Note* Make sure the box next to "Registration Required" is unchecked -> Save 
 
-7. Configure Agents (Create workers)
+8. Configure Agents (Create workers)
    Admin Login Page -> Admin Panel -> Agents -> Add New Agents -> Enter Name -> Enter Email address -> Enter Username -> Set Password -> Uncheck top box -> Enter Password in both boxes -> Unckeck bottom box -> Update -> Access tab -> For Primary dept. "Support/SysAdmins" -> For Roles "Supreme Admin"  
    -> Teams tab -> Online Banking -> Create -> Save to notepad
+
+![image](https://github.com/user-attachments/assets/c29ec573-2224-4408-bb8c-8ef28601419e)
 
    Admin Login Page -> Admin Panel -> Agents -> Add New Agents -> Enter Name -> Enter Email address -> Enter Username -> Set Password -> Uncheck top box -> Enter Password in both boxes -> Unckeck bottom box -> Update -> Access tab -> For Primary dept. "Support" -> For Roles "All Access" -> Create
    -> Save to notepad
 
-8. Re-Configure Teams
+![image](https://github.com/user-attachments/assets/7ad97cf2-07ba-4af7-8547-32cf2184d34d)
+
+9. Re-Configure Teams
     Admin Login Page -> Admin Panel -> Agents -> Teams -> Select Team -> Members -> Select Agent -> Add -> Save
 
    Admin Login Page -> Admin Panel -> Agents -> Teams -> Select Team -> Members -> Select Agent -> Add -> Save
 
-9. Configure Users (Create End Users)
+10. Configure Users (Create End Users)
    Admin Login Page -> Agent Panel -> Users -> Add User -> Enter email address -> Enter Name -> Create -> Save to notepad -> *Repeat to Create another End User*
 
-10. Configure SLA (Create SLAs)
+11. Configure SLA (Create SLAs)
    Admin Login Page -> Admin Panel -> Manage -> SLA -> Add New SLA -> Enter Name -> Enter Grace Period -> Select Scheduale -> Add plan -> *Repeat to Create Two more SLAs for a total of Three SLAs*
 
-11. Configure Help Topics (Create Help Topics)
+12. Configure Help Topics (Create Help Topics)
     Admin Login Page -> Admin Panel -> Manage -> Help Topics -> Add New Help Topic -> Enter Name -> Choose Parent Topic -> Add Topic -> *Repeat to Create Four more Help Topics for a total of five Help Topics*
 
 Congratulatons on finishing the modifications needed to use the osTicket software in a simulated real world application. Now you can move on to practice creating and solving tickets.
