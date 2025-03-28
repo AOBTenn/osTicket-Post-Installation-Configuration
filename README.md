@@ -57,8 +57,14 @@ Admin webpage -> Sign in as admin -> Admin panel -> Agent panel
 6. Configure Teams
     Admin Login Page -> Admin Panel -> Agents -> Teams -> Add New Team -> For Name type "Omline Banking" -> Create
 
+![image](https://github.com/user-attachments/assets/39d4d901-f4bf-41c7-b36e-9b72adb4e456)
+
+![image](https://github.com/user-attachments/assets/53dee0ae-9b68-4c2a-ba5a-0da2a27bd8cb)
+
 7. Allow anyone to create tickets
    Admin Login Page -> Admin Panel -> Settings -> Users -> *Note* Make sure the box next to "Registration Required" is unchecked -> Save 
+
+![image](https://github.com/user-attachments/assets/ec467781-1996-4de4-8f85-7749c9d2f0dd)
 
 8. Configure Agents (Create workers)
    Admin Login Page -> Admin Panel -> Agents -> Add New Agents -> Enter Name -> Enter Email address -> Enter Username -> Set Password -> Uncheck top box -> Enter Password in both boxes -> Unckeck bottom box -> Update -> Access tab -> For Primary dept. "Support/SysAdmins" -> For Roles "Supreme Admin"  
