@@ -55,7 +55,7 @@ Admin webpage -> Sign in as admin -> Admin panel -> Agent panel
 ![image](https://github.com/user-attachments/assets/1cca647a-cf5d-469b-b643-3a72b7f70c1d)
 
 6. Configure Teams
-    Admin Login Page -> Admin Panel -> Agents -> Teams -> Add New Team -> For Name type "Omline Banking" -> Create
+    Admin Login Page -> Admin Panel -> Agents -> Teams -> Add New Team -> For Name type "Online Banking" -> Create
 
 ![image](https://github.com/user-attachments/assets/39d4d901-f4bf-41c7-b36e-9b72adb4e456)
 
@@ -81,6 +81,7 @@ Admin Login Page -> Admin Panel -> Agents -> Add New Agents -> Enter Name -> Ent
 ![image](https://github.com/user-attachments/assets/09ea5d5c-1c36-4abb-987d-3be56992617f)
 ![image](https://github.com/user-attachments/assets/b68a12a6-5b2c-4e4d-80d4-25be9d7516bf)
 ![image](https://github.com/user-attachments/assets/4b5a1c04-e914-4864-b107-82278b0c44d3)
+![image](https://github.com/user-attachments/assets/3c6f3612-f84b-416c-be4e-4e2748ae6fc2)
 
 9. Re-Configure Teams
     
@@ -97,9 +98,14 @@ Admin Login Page -> Admin Panel -> Agents -> Teams -> Select Team -> Members -> 
 
 ![image](https://github.com/user-attachments/assets/24db842d-4f47-44d1-9c38-ffef62574004)
 ![image](https://github.com/user-attachments/assets/ffdabdd5-be72-4452-b41b-1a07fc632ea7)
+![image](https://github.com/user-attachments/assets/bb08d14f-46ba-4042-b52d-fd1b7937f23e)
 
 11. Configure SLA (Create SLAs)
    Admin Login Page -> Admin Panel -> Manage -> SLA -> Add New SLA -> Enter Name -> Enter Grace Period -> Select Scheduale -> Add plan -> *Repeat to Create Two more SLAs for a total of Three SLAs*
+
+![image](https://github.com/user-attachments/assets/4b794586-a4df-42a7-9313-c21acb51b4f4)
+![image](https://github.com/user-attachments/assets/ba5ea2ff-0319-44c2-ba70-9dc250f2538c)
+![image](https://github.com/user-attachments/assets/76bfc716-7bd2-45ee-8aaa-5ed5abf20954)
 
 12. Configure Help Topics (Create Help Topics)
     Admin Login Page -> Admin Panel -> Manage -> Help Topics -> Add New Help Topic -> Enter Name -> Choose Parent Topic -> Add Topic -> *Repeat to Create Four more Help Topics for a total of five Help Topics*
