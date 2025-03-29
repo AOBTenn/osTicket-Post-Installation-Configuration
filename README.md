@@ -67,15 +67,19 @@ Admin webpage -> Sign in as admin -> Admin panel -> Agent panel
 ![image](https://github.com/user-attachments/assets/ec467781-1996-4de4-8f85-7749c9d2f0dd)
 
 8. Configure Agents (Create workers)
-   Admin Login Page -> Admin Panel -> Agents -> Add New Agents -> Enter Name -> Enter Email address -> Enter Username -> Set Password -> Uncheck top box -> Enter Password in both boxes -> Unckeck bottom box -> Update -> Access tab -> For Primary dept. "Support/SysAdmins" -> For Roles "Supreme Admin"  
-   -> Teams tab -> Online Banking -> Create -> Save to notepad
+   Admin Login Page -> Admin Panel -> Agents -> Add New Agents -> Enter Name -> Enter Email address -> Enter Username -> Set Password -> Uncheck top box -> Enter Password in both boxes -> Unckeck bottom box -> Update -> Access tab -> For Primary dept. "Support/SysAdmins" -> For Roles "Supreme Admin" -> Teams tab -> Online Banking -> Create -> Save to notepad
 
 ![image](https://github.com/user-attachments/assets/c29ec573-2224-4408-bb8c-8ef28601419e)
+![image](https://github.com/user-attachments/assets/1307b1a9-750e-4391-9ac0-1ac213ae6cf8)
+![image](https://github.com/user-attachments/assets/66b866cf-fc1b-4b05-bff3-03e78c25d815)
+![image](https://github.com/user-attachments/assets/5376e259-6518-4487-aa66-0d35bc0560e3)
 
-   Admin Login Page -> Admin Panel -> Agents -> Add New Agents -> Enter Name -> Enter Email address -> Enter Username -> Set Password -> Uncheck top box -> Enter Password in both boxes -> Unckeck bottom box -> Update -> Access tab -> For Primary dept. "Support" -> For Roles "All Access" -> Create
-   -> Save to notepad
+   Admin Login Page -> Admin Panel -> Agents -> Add New Agents -> Enter Name -> Enter Email address -> Enter Username -> Set Password -> Uncheck top box -> Enter Password in both boxes -> Unckeck bottom box -> Update -> Access tab -> For Primary dept. "Support" -> For Roles "All Access" -> Create -> Save to notepad
 
 ![image](https://github.com/user-attachments/assets/7ad97cf2-07ba-4af7-8547-32cf2184d34d)
+![image](https://github.com/user-attachments/assets/09ea5d5c-1c36-4abb-987d-3be56992617f)
+![image](https://github.com/user-attachments/assets/b68a12a6-5b2c-4e4d-80d4-25be9d7516bf)
+![image](https://github.com/user-attachments/assets/4b5a1c04-e914-4864-b107-82278b0c44d3)
 
 9. Re-Configure Teams
     Admin Login Page -> Admin Panel -> Agents -> Teams -> Select Team -> Members -> Select Agent -> Add -> Save
