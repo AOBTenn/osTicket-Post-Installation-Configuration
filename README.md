@@ -38,7 +38,8 @@ Admin webpage -> Sign in as admin -> Admin panel -> Agent panel
 ![image](https://github.com/user-attachments/assets/6403fbde-143d-4a5e-8820-626e80fcf40d)
 
 3. Configure Roles
-   Admin Login Page -> Admin Panel -> Agents -> Roles -> Add New Role -> Type "Supreme Admin" -> Permissions -> Check all the boxes -> Add Role
+
+Admin Login Page -> Admin Panel -> Agents -> Roles -> Add New Role -> Type "Supreme Admin" -> Permissions -> Check all the boxes -> Add Role
 
 ![image](https://github.com/user-attachments/assets/c88cd158-5ee3-4221-b331-a223e99ed207)
 ![image](https://github.com/user-attachments/assets/4b67e5ab-95e4-432a-ac01-07187479cd36)
@@ -46,27 +47,31 @@ Admin webpage -> Sign in as admin -> Admin panel -> Agent panel
 ![image](https://github.com/user-attachments/assets/a6874e44-fa6c-4664-8796-ea84b55183dc)
 
 4. Configure Departments
-   Admin Login Page -> Admin Panel -> Agents -> Departments -> Add New Department -> For Parent select "Top Level Department" -> For Name type "SysAdmins" -> Create
+
+Admin Login Page -> Admin Panel -> Agents -> Departments -> Add New Department -> For Parent select "Top Level Department" -> For Name type "SysAdmins" -> Create
 
 ![image](https://github.com/user-attachments/assets/1653c26d-e825-4116-9a2e-48dd5394947b)
 
-   Admin Login Page -> Admin Panel -> Agents (in the top row, not second row) -> Departments -> Maintenance -> Delete -> Save
+Admin Login Page -> Admin Panel -> Agents (in the top row, not second row) -> Departments -> Maintenance -> Delete -> Save
 
 ![image](https://github.com/user-attachments/assets/1cca647a-cf5d-469b-b643-3a72b7f70c1d)
 
 6. Configure Teams
-    Admin Login Page -> Admin Panel -> Agents -> Teams -> Add New Team -> For Name type "Online Banking" -> Create
+
+Admin Login Page -> Admin Panel -> Agents -> Teams -> Add New Team -> For Name type "Online Banking" -> Create
 
 ![image](https://github.com/user-attachments/assets/39d4d901-f4bf-41c7-b36e-9b72adb4e456)
 
 ![image](https://github.com/user-attachments/assets/53dee0ae-9b68-4c2a-ba5a-0da2a27bd8cb)
 
 7. Allow anyone to create tickets
+
 Admin Login Page -> Admin Panel -> Settings -> Users -> *Note* Make sure the box next to "Registration Required" is unchecked -> Save 
 
 ![image](https://github.com/user-attachments/assets/ec467781-1996-4de4-8f85-7749c9d2f0dd)
 
 8. Configure Agents (Create workers)
+
 Admin Login Page -> Admin Panel -> Agents -> Add New Agents -> Enter Name -> Enter Email address -> Enter Username -> Set Password -> Uncheck top box -> Enter Password in both boxes -> Unckeck bottom box -> Update -> Access tab -> For Primary dept. "Support/SysAdmins" -> For Roles "Supreme Admin" -> Teams tab -> Online Banking -> Create -> Save to notepad
 
 ![image](https://github.com/user-attachments/assets/c29ec573-2224-4408-bb8c-8ef28601419e)
@@ -94,21 +99,25 @@ Admin Login Page -> Admin Panel -> Agents -> Teams -> Select Team -> Members -> 
 ![image](https://github.com/user-attachments/assets/48664fb5-575f-4b5e-8499-cd6a97e446fd)
 
 10. Configure Users (Create End Users)
-   Admin Login Page -> Agent Panel -> Users -> Add User -> Enter email address -> Enter Name -> Create -> Save to notepad -> *Repeat to Create another End User*
+Admin Login Page -> Agent Panel -> Users -> Add User -> Enter email address -> Enter Name -> Create -> Save to notepad -> *Repeat to Create another End User*
 
 ![image](https://github.com/user-attachments/assets/24db842d-4f47-44d1-9c38-ffef62574004)
 ![image](https://github.com/user-attachments/assets/ffdabdd5-be72-4452-b41b-1a07fc632ea7)
 ![image](https://github.com/user-attachments/assets/bb08d14f-46ba-4042-b52d-fd1b7937f23e)
 
 11. Configure SLA (Create SLAs)
-   Admin Login Page -> Admin Panel -> Manage -> SLA -> Add New SLA -> Enter Name -> Enter Grace Period -> Select Scheduale -> Add plan -> *Repeat to Create Two more SLAs for a total of Three SLAs*
+Admin Login Page -> Admin Panel -> Manage -> SLA -> Add New SLA -> Enter Name -> Enter Grace Period -> Select Scheduale -> Add plan -> *Repeat to Create Two more SLAs for a total of Three SLAs*
 
 ![image](https://github.com/user-attachments/assets/4b794586-a4df-42a7-9313-c21acb51b4f4)
 ![image](https://github.com/user-attachments/assets/ba5ea2ff-0319-44c2-ba70-9dc250f2538c)
 ![image](https://github.com/user-attachments/assets/76bfc716-7bd2-45ee-8aaa-5ed5abf20954)
 
 12. Configure Help Topics (Create Help Topics)
-    Admin Login Page -> Admin Panel -> Manage -> Help Topics -> Add New Help Topic -> Enter Name -> Choose Parent Topic -> Add Topic -> *Repeat to Create Four more Help Topics for a total of five Help Topics*
+Admin Login Page -> Admin Panel -> Manage -> Help Topics -> Add New Help Topic -> Enter Name -> Choose Parent Topic -> Add Topic -> *Repeat to Create Four more Help Topics for a total of five Help Topics*
+
+![image](https://github.com/user-attachments/assets/0451205c-d3d8-42c7-9a1e-836f60a3bd59)
+![image](https://github.com/user-attachments/assets/30a30e27-a221-47aa-bb8c-3be8fe0e4cda)
+![image](https://github.com/user-attachments/assets/ca037cab-2be9-4e4d-9e0d-060a8e44524b)
 
 Congratulatons on finishing the modifications needed to use the osTicket software in a simulated real world application. Now you can move on to practice creating and solving tickets.
 
